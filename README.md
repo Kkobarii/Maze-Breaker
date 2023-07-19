@@ -4,7 +4,7 @@ Project for my ALG1 course
 
 ## Description
 
-This is a simple console application for solving mazes. The path is found using breadth first traversal, where each tile in the maze is given a value coresponding to its distance from the start. When each tile has been evaluated, the maze is traversed recursively from the end to the start based on the tiles' distance from the start.
+This is a simple console application for solving mazes written in C++. The path is found using breadth first traversal, where each tile in the maze is given a value coresponding to its distance from the start. When each tile has been evaluated, the maze is traversed recursively from the end to the start based on the tiles' distance from the start.
 
 The program can handle unsolvable mazes or mazes with multiple or zero starting or ending tiles.
 
