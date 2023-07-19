@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+main
+
+# Doxygen folders
+html/
+latex/
+
+# VS Code folders
+.vs/
+.vscode
+
+# Random
+*.zip
