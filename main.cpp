@@ -9,10 +9,7 @@
  * 
  */
 
-#include "includes.h"
-#include "Graph.h"
-#include "Field.h"
-#include "Maze.h"
+#include "Code/Include/Maze.h"
 
 int main (void)
 {

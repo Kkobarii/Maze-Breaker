@@ -1,3 +1,3 @@
 all:
-	g++ *.cpp -o main -fsanitize=address -g
+	g++ *.cpp Code/*.cpp -o main -fsanitize=address -g
 	./main
