@@ -31,4 +31,15 @@ The input and output maze are entered in a text file starting with two lines spe
 - 3: finish
 - 4: solved path (added in the output file)
 
+## Examples
+
+### Solved maze
+![solved](.readme_examples/solved_maze.png)
+
+### Unsolvable maze
+![unsolvable](.readme_examples/unsolvable_maze.png)
+
+### Solving process
+![solving_process](.readme_examples/solving_process.png)
+
 > Originally made in May 2022
